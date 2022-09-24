@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-# 💻 Tech Stack:
+# 💻 Language Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![RASA](https://img.shields.io/badge/RASA-%3670A0.svg?style=for-the-badge&logo=rasa&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-%2300f.svg?style=for-the-badge&logo=ros&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-%23150458.svg?style=for-the-badge&logo=linux&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Secret-Ambush&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
