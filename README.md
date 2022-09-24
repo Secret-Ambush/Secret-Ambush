@@ -20,5 +20,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Secret-Ambush&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
+## 😂 Random Joke Generator
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+## 🧾 Profile View Counter
+![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+
 
 
