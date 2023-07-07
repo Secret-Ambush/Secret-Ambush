@@ -1,4 +1,4 @@
-<h1> <center>Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> </center> </h1>
+<h1> <center>Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> </center> </h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="150"/>
 </div>
