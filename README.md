@@ -1,4 +1,4 @@
-Hello there!
+<h1> Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/></h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="150"/>
 </div>
@@ -6,9 +6,6 @@ Hello there!
   <a href="https://www.linkedin.com/in/riddhi-goswami-90052223b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 # 💻 Language Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![RASA](https://img.shields.io/badge/RASA-%3670A0.svg?style=for-the-badge&logo=rasa&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-%2300f.svg?style=for-the-badge&logo=ros&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-%23150458.svg?style=for-the-badge&logo=linux&logoColor=white) ![C](https://img.shields.io/badge/C-%233F4F75.svg?style=for-the-badge&logo=C&logoColor=white) ![JAVA](https://img.shields.io/badge/Java-%3670A0.svg?style=for-the-badge&logo=java&logoColor=white)
