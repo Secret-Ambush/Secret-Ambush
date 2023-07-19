@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-# 💻 Language Stack:
+### 💻 Language Stack:
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -106,26 +106,33 @@
     <img src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" alt="dash" width="40" height="40"/>
   </a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/streamlit/streamlit-icon.svg" alt="streamlit" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="streamlit" width="40" height="40"/>
   </a>
   <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="markdown" width="40" height="40"/>
   </a>
+  <a href="http://www.ros.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg" alt="markdown" width="40" height="40"/>
+  </a>
+    <a href="http://www.github.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="markdown" width="90" height="40"/>
+  </a>
+ 
 </p>
 
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Secret-Ambush&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Secret-Ambush&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Secret-Ambush&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Secret-Ambush&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-## 😂 Random Joke Generator
+### 😂 Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## 🧾 Profile View Counter
+### 🧾 Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
 
 
