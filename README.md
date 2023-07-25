@@ -1,4 +1,6 @@
-<h1> <center>Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> </center> </h1>
+
+![github-header-image (2)](https://github.com/Secret-Ambush/Secret-Ambush/assets/91322531/76c2b465-72dd-4cc8-a90f-28b4fa1f457c)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="150"/>
 </div>
