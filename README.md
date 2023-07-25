@@ -119,18 +119,23 @@
 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Secret-Ambush&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Secret-Ambush&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Secret-Ambush&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+    <br/>
+        <img alt="SecretAmbush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Secret-Ambush&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" height="192px"/>
+    <img alt="SecretAmbush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Secret-Ambush&langs_count=8&layout=compact&theme=synthwave" height="192px"/>
+  <img alt="SecretAmbush's contibutions" src="https://github-readme-streak-stats.herokuapp.com/?user=Secret-Ambush&theme=synthwave&hide_border=true" height="192px"/>
+    <br/>
+  </div>
+  <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Secret-Ambush&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Secret-Ambush&theme=synthwave&no-frame=true&no-bg=true&margin-w=4)
 
 ### 😂 Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### 🧾 Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+![](https://komarev.com/ghpvc/?username=Secret-Ambush&color=blueviolet)
 
 
 
