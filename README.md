@@ -1,4 +1,3 @@
-
 ![github-header-image (2)](https://github.com/Secret-Ambush/Secret-Ambush/assets/91322531/76c2b465-72dd-4cc8-a90f-28b4fa1f457c)
 
 <div id="header" align="center">
