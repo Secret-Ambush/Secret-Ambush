@@ -115,7 +115,9 @@
     <a href="http://www.github.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="markdown" width="90" height="40"/>
   </a>
- 
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask" width="70" height="40"/>
+</a>
 </p>
 
 
