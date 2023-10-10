@@ -138,8 +138,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 </br>
-</br>
-
 ### 🧾 Profile View Counter
 ![](https://komarev.com/ghpvc/?username=Secret-Ambush&color=blueviolet)
 
