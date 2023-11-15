@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=CSS3&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Markdown-informational?style=flat-sqaure&logo=Markdown&logoColor=white&color=000000)
