@@ -48,7 +48,6 @@
 ### 📊 GitHub Stats:
 <div align="center">
     <br/>
-        <img alt="SecretAmbush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Secret-Ambush&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" height="192px"/>
     <img alt="SecretAmbush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Secret-Ambush&langs_count=8&layout=compact&theme=synthwave" height="192px"/>
   <img alt="SecretAmbush's contibutions" src="https://github-readme-streak-stats.herokuapp.com/?user=Secret-Ambush&theme=synthwave&hide_border=true" height="192px"/>
     <br/>
