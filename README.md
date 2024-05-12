@@ -49,7 +49,7 @@
   <img alt= "Stats" src = "https://github-readme-stats.vercel.app/api?username=Secret-Ambush&theme=synthwave&show_icons=true&hide_border=false&count_private=true" height="192px"/>
     <br/>
     <img alt="SecretAmbush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Secret-Ambush&langs_count=8&layout=compact&theme=synthwave" height="192px"/>
-  <img alt="SecretAmbush's contibutions" src="https://github-readme-streak-stats.herokuapp.com/?user=Secret-Ambush&theme=synthwave&hide_border=true" height="192px"/>
+  <img alt="SecretAmbush's contibutions" src="https://github-readme-streak-stats.herokuapp.com/?user=Secret-Ambush&theme=synthwave&hide_border=false" height="192px"/>
     <br/>
   </div>
   <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
