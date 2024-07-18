@@ -63,7 +63,8 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### 🧾 Profile View Counter
-![view](https://komarev.com/ghpvc/?username=Secret-Ambush&color=blueviolet)
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>  
+<img src = "https://komarev.com/ghpvc/?username=Secret-Ambush&color=blueviolet" />
 
 
 
