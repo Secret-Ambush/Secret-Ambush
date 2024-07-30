@@ -23,6 +23,8 @@
 ![](https://img.shields.io/badge/Shiny-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![](https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-informational?style=flat-sqaure&logo=Markdown&logoColor=white&color=000000)
+![](https://img.shields.io/badge/RegEx-informational?style=flat-square&logo=researchgate&logoColor=white&color=00CCBB)
+![](https://img.shields.io/badge/LaTeX-informational?style=flat-square&logo=LaTeX&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/Canva-informational?style=flat-sqaure&logo=Canva&logoColor=white&color=00C4CC)
 ![](https://img.shields.io/badge/Bash_Scripting-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=4EAA25)
 ![](https://img.shields.io/badge/Git-informational?style=flat-sqaure&logo=Git&logoColor=white&color=F05032)
