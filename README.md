@@ -39,6 +39,7 @@
 ![](https://img.shields.io/badge/Numpy-informational?style=flat-square&logo=Numpy&logoColor=white&color=013243)
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/Plotly-informational?style=flat-square&logo=Plotly&logoColor=white&color=3F4F75)
+![](https://img.shields.io/badge/PyGWalker-informational?style=flat-square&logo=Plotly&logoColor=white&color=3F4F75)
 ![](https://img.shields.io/badge/Power%20BI-F7931E?style=flat-square&logo=powerbi&logoColor=white&color=F2C811)
 ![](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=FCC624)
