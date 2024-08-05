@@ -20,6 +20,7 @@
 ![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=CSS3&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/WPF-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/dash-008DE4?style=flat-square&logo=dash&logoColor=white)
 ![](https://img.shields.io/badge/Shiny-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![](https://img.shields.io/badge/Power%20BI-F7931E?style=flat-square&logo=powerbi&logoColor=white&color=F2C811)
 ![](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
