@@ -37,6 +37,7 @@
 ![](https://img.shields.io/badge/Arduino-informational?style=flat-square&logo=arduino&logoColor=white&color=00979D)
 ![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white)
 ![](https://img.shields.io/badge/Snowflake-F7931E?style=flat-square&logo=snowflake&logoColor=white&color=29B5E8)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=PostgreSQL&logoColor=white&color=4169E1)
 ![](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&color=F7931E)
