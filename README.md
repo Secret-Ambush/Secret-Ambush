@@ -75,4 +75,6 @@
 <img src = "https://komarev.com/ghpvc/?username=Secret-Ambush&color=blueviolet" />
 
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
 
