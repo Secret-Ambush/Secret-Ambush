@@ -64,8 +64,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Secret-Ambush&theme=synthwave"/>
 </div>
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Secret-Ambush&theme=synthwave&no-frame=true&no-bg=true&margin-w=4)
+<!--### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Secret-Ambush&theme=synthwave&no-frame=true&no-bg=true&margin-w=4)-->
 
 ### 😂 Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
