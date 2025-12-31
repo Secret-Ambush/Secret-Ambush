@@ -53,7 +53,7 @@
 ![](https://img.shields.io/badge/OBS%20Studio-informational?style=flat-square&logo=obs-studio&logoColor=white&color=302E31)
 
 
-### 📊 GitHub Stats:
+<!--###### 📊 GitHub Stats:
 <div align="center">
   </br>
   <img alt= "Stats" src = "https://github-readme-stats.vercel.app/api?username=Secret-Ambush&theme=synthwave&show_icons=true&hide_border=false&count_private=true" height="192px"/>
@@ -64,7 +64,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Secret-Ambush&theme=synthwave"/>
 </div>
 
-<!--### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Secret-Ambush&theme=synthwave&no-frame=true&no-bg=true&margin-w=4)-->
 
 ### 😂 Random Joke Generator
