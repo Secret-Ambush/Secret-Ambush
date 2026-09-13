@@ -53,30 +53,31 @@
 ![](https://img.shields.io/badge/Notion-informational?style=flat-square&logo=Notion&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/OBS%20Studio-informational?style=flat-square&logo=obs-studio&logoColor=white&color=302E31)
 
-
 <!--
-###### 📊 GitHub Stats:
 <div align="center">
   </br>
   <img alt= "Stats" src = "https://github-readme-stats.vercel.app/api?username=Secret-Ambush&theme=synthwave&show_icons=true&hide_border=false&count_private=true" height="192px"/>
   <img alt="SecretAmbush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Secret-Ambush&langs_count=8&layout=compact&theme=synthwave" height="192px"/>
   <br/>
   </div>
-  <div align="center">
+  -->
+
+### 📊 GitHub Stats:
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Secret-Ambush&theme=synthwave"/>
 </div>
--->
+
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>  
+<img src = "https://komarev.com/ghpvc/?username=Secret-Ambush&color=blueviolet" />
+
 <!--
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Secret-Ambush&theme=synthwave&no-frame=true&no-bg=true&margin-w=4)
--->
 
 ### 😂 Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-### 👀 Profile View Counter
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>  
-<img src = "https://komarev.com/ghpvc/?username=Secret-Ambush&color=blueviolet" />
+-->
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
