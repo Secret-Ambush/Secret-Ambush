@@ -7,6 +7,10 @@
   <a href="https://www.linkedin.com/in/riddhi-goswami-90052223b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://leetcode.com/SecretAmbush95/" target="blank">
+    <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
 
 ### 💻 Tech Stack:
 ![](https://img.shields.io/badge/Assembly%20-%23525252.svg?logo=mega&logoColor=white)
