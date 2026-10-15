@@ -72,9 +72,10 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Secret-Ambush&theme=synthwave"/>
 </div>
-
-<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>  
-<img src = "https://komarev.com/ghpvc/?username=Secret-Ambush&color=blueviolet" />
+<div align="center">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>  
+  <img src = "https://komarev.com/ghpvc/?username=Secret-Ambush&color=blueviolet" />
+</div>
 
 <!--
 ### 🏆 GitHub Trophies
