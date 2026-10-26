@@ -12,8 +12,8 @@
   </a> -->
 </div>
 
+## 
 
-### 💻 Tech Stack:
 ![](https://img.shields.io/badge/Assembly%20-%23525252.svg?logo=mega&logoColor=white)
 ![](https://img.shields.io/badge/C-informational?style=flat-square&logo=C&logoColor=white&color=A8B9CC)
 ![](https://img.shields.io/badge/C%23-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C)
@@ -58,14 +58,12 @@
 ![](https://img.shields.io/badge/Notion-informational?style=flat-square&logo=Notion&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/OBS%20Studio-informational?style=flat-square&logo=obs-studio&logoColor=white&color=302E31)
 
-<!--
 <div align="center">
   </br>
   <img alt= "Stats" src = "https://github-readme-stats.vercel.app/api?username=Secret-Ambush&theme=synthwave&show_icons=true&hide_border=false&count_private=true" height="192px"/>
   <img alt="SecretAmbush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Secret-Ambush&langs_count=8&layout=compact&theme=synthwave" height="192px"/>
   <br/>
   </div>
-  -->
 
 ### 📊 GitHub Stats:
 
